@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "http-effetcs"
+  "defaultProject": "http-effetcs",
+  "cli": {
+    "analytics": false
+  }
 }
